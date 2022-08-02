@@ -12,6 +12,6 @@ Steel ingots are crafted through the use of the anvil with 2 iron ingots and 1 c
 
 #### Need to add everything else.
 
-* For reference: https://gitea.your-land.de/your-land/administration/issues/44
+* For reference: giteaYL issues 44
 
 
